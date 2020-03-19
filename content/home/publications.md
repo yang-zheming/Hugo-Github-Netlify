@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "conference"
+subtitle = "Conference"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -18,18 +18,18 @@ subtitle = "conference"
   count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "A Universal Intelligence Measurement Method Based on Meta-analysis"
-    category = "2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
-    publication_type = "IEEE"
-    author = "Yang, Zheming, and Wen Ji"
-    exclude_featured = true
+    tag = "111"
+    category = "222"
+    publication_type = "333"
+    author = "Zhheming Yang"
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -37,7 +37,7 @@ subtitle = "conference"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
