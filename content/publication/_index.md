@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: A Universal Intelligence Measurement Method Based on Meta-analysis
 
 # View.
 #   1 = List
@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+  caption: ""
   image: ""
 ---
