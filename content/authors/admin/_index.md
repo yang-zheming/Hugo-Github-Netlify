@@ -24,6 +24,7 @@ interests:
 - Universal Intelligence Measure
 - Reinforcement Learning
 - Intelligent Multimedia
+- Network Economy
 
 education:
   courses:
@@ -86,4 +87,4 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, he is pursuing a Ph.D. degree at the Institute of Computing Technology(ICT), Chinese Academy of Sciences (CAS). His current research interests include intelligence measure, video transmission, and network economics.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, he is pursuing a Ph.D. degree at the Institute of Computing Technology(ICT), Chinese Academy of Sciences (CAS). His current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, and Network Economy.
