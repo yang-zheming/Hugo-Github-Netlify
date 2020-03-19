@@ -8,7 +8,7 @@ title: Awards
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:National Scholarship 2018
-  caption: ""
+header:
+  caption: "National Scholarship 2018"
   image: ""
 ---
