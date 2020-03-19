@@ -29,23 +29,25 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Institute of Computing Technology, Chinese Academy of Sciences
-    year: 2019-Now
+    year: 2019
     
-contacts:
-- yangzheming19b@ict.ac.cn
-- yang.zheming@foxmail.com
-- yangzheming19@mails.ucas.ac.cn
+  - course: BSc in Electronic Engineering
+    institution: North China University of Science and Technology
+    year: 2015
+    
+#contacts:
+#- yangzheming19b@ict.ac.cn
+#- yang.zheming@foxmail.com
+#- yangzheming19@mails.ucas.ac.cn
 
-address:
-- NO.6 Kexueyuan South Road, 
-  Haidian District Beijing, P.R.China
+#address:
+#- NO.6 Kexueyuan South Road, 
+#  Haidian District Beijing, P.R.China
   
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: BSc in Electronic Engineering
-    institution: North China University of Science and Technology
-    year: 2015-2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
