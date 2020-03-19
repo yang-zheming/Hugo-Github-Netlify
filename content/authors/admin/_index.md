@@ -16,7 +16,7 @@ role: PhD Student
 organizations:
 - name: Institute of Computing Technology, Chinese Academy of Sciences
   url: "http://www.ict.ac.cn/"
-
+- name: yangzheming19b@ict.ac.cn
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Universal Intelligence Measure, Reinforcement Learning and Intelligent Multimedia.
 
@@ -35,6 +35,12 @@ education:
   - course: BSc in Electronic Engineering
     institution: North China University of Science and Technology
     year: 2015-2019
+    
+interests:
+- Universal Intelligence Measure
+- Reinforcement Learning
+- Intelligent Multimedia
+- Network Economy
     
 #contacts:
 #- yangzheming19b@ict.ac.cn
