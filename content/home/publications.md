@@ -27,8 +27,8 @@ subtitle = "Conference"
   [content.filters]
     tag = "111"
     category = "222"
-    publication_type = "333"
-    author = "Zhheming Yang"
+    publication_type = "1"
+    author = "Zheming Yang"
     exclude_featured = false
   
 [design]
