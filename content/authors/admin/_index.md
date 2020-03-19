@@ -29,11 +29,11 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Institute of Computing Technology, Chinese Academy of Sciences
-    year: 2019
+    year: 2019-Now
     
   - course: BSc in Electronic Engineering
     institution: North China University of Science and Technology
-    year: 2015
+    year: 2015-2019
     
 #contacts:
 #- yangzheming19b@ict.ac.cn
