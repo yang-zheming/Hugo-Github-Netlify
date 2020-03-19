@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ict.ac.cn/"
 - name: yangzheming19b@ict.ac.cn
 - name: yang.zheming@foxmail.com
-- name: NO.6 Kexueyuan South Road, Haidian District Beijing, P.R.China
+- name: NO.6 Kexueyuan South Road, Haidian District Beijing, 100000, China
 
 
 # Short bio (displayed in user profile at end of posts)
