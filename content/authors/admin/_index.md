@@ -36,14 +36,13 @@ education:
     institution: North China University of Science and Technology
     year: 2015-2019
     
-#contacts:
-#- yangzheming19b@ict.ac.cn
-#- yang.zheming@foxmail.com
-#- yangzheming19@mails.ucas.ac.cn
+contacts:
+- yangzheming19b@ict.ac.cn
+- yang.zheming@foxmail.com
+- yangzheming19@mails.ucas.ac.cn
 
-#address:
-#- NO.6 Kexueyuan South Road, 
-#  Haidian District Beijing, P.R.China
+address:
+- NO.6 Kexueyuan South Road, Haidian District Beijing, P.R.China
   
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -87,4 +86,6 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, he is pursuing a Ph.D. degree at the Institute of Computing Technology(ICT), Chinese Academy of Sciences (CAS). His current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, and Network Economy.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, he is pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences.
+His current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia,
+and Network Economy.
