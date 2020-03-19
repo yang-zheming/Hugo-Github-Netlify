@@ -9,6 +9,8 @@ weight = 20  # Order that this section will appear.
 
 title = "Publications"
 subtitle = "Conference"
+subtitle = "Journal"
+subtitle = "Book"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -18,7 +20,7 @@ subtitle = "Conference"
   count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 1
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
