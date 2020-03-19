@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Universal Intelligence Measure, Reinforcement Learning and Intelligent Multimedia.
 
-research interests:
+interests:
 - Universal Intelligence Measure
 - Reinforcement Learning
 - Intelligent Multimedia
@@ -36,13 +36,13 @@ education:
     institution: North China University of Science and Technology
     year: 2015-2019
     
-contacts:
-- yangzheming19b@ict.ac.cn
-- yang.zheming@foxmail.com
-- yangzheming19@mails.ucas.ac.cn
+#contacts:
+#- yangzheming19b@ict.ac.cn
+#- yang.zheming@foxmail.com
+#- yangzheming19@mails.ucas.ac.cn
 
-address:
-- NO.6 Kexueyuan South Road, Haidian District Beijing, P.R.China
+#address:
+#- NO.6 Kexueyuan South Road, Haidian District Beijing, P.R.China
   
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
