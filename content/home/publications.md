@@ -29,7 +29,7 @@ subtitle = "conference"
     category = "2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
     publication_type = "IEEE"
     author = "Yang, Zheming, and Wen Ji"
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
