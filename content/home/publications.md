@@ -9,8 +9,6 @@ weight = 20  # Order that this section will appear.
 
 title = "Publications"
 subtitle = "Conference"
-subtitle = "Journal"
-subtitle = "Book"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
