@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+header:A Universal Intelligence Measurement Method Based on Meta-analysis
+  caption: ""
   image: ""
 ---
