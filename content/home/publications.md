@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "conference"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "A Universal Intelligence Measurement Method Based on Meta-analysis"
+    category = "2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)"
+    publication_type = "IEEE"
+    author = "Yang, Zheming, and Wen Ji"
     exclude_featured = false
   
 [design]
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
