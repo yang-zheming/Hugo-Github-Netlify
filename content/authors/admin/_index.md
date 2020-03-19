@@ -4,7 +4,7 @@ name: Zheming Yang
 
 # Username (this should match the folder name)
 authors:
-- yzm
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,12 +15,12 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Institute of Computing Technology, Chinese Academy of Sciences
-  url: ""
+  url: "http://www.ict.ac.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Universal Intelligence Measure, Reinforcement Learning and Intelligent Multimedia.
 
-interests:
+research interests:
 - Universal Intelligence Measure
 - Reinforcement Learning
 - Intelligent Multimedia
