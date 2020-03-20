@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Lorem
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference(APSIPA ASC). IEEE, 2019: 493-498.
+summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
 
 tags:
 - Source Themes
