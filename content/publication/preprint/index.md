@@ -6,7 +6,7 @@ date: "2019"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Lorem
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference(APSIPA ASC). IEEE, 2019: 493-498.
 
 tags:
 - Source Themes
@@ -31,13 +31,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
+url_code: ''
+url_dataset: ''
 url_poster: '#'
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
