@@ -1,6 +1,6 @@
 ---
 title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
-authors: 1111
+authors:
 - admin
 date: "2019"
 doi: ""
