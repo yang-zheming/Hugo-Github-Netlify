@@ -23,7 +23,7 @@ measurement is typically built at a model based on the multiple factors. The dif
 
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) (pp. 493-498). IEEE.
+summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
 
 tags:
 - Source Themes
