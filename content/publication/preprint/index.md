@@ -18,8 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: LoremThe multiple factors of intelligence measurement are critical in the intelligent science. The intelligence
-measurement is typically built at a model based on the multiple factors. The different digital self is
+abstract: Lorem
 
 # Summary. An optional shortened abstract.
 summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
