@@ -24,12 +24,14 @@ subtitle = "Conference"
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "111"
-    category = "222"
-    publication_type = "1"
-    author = "Zheming Yang"
-    exclude_featured = false
+  
+  
+ # [content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  #  author = ""
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
