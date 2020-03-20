@@ -70,5 +70,5 @@ subtitle = "Conference"
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+[filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
