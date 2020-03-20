@@ -1,5 +1,5 @@
 ---
-title: A Universal Intelligence Measurement Method Based on Meta-analysis
+title: Publications
 
 # View.
 #   1 = List
