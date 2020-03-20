@@ -36,7 +36,7 @@ education:
     institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: 2019-Now
     
-  - course: BSc in Electronic Engineering
+  - course: B.Sc in Electronic Engineering
     institution: North China University of Science and Technology
     year: 2015-2019
     
