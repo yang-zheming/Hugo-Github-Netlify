@@ -2,11 +2,12 @@
 title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
 authors:
 - admin
+- Wen Ji
 date: "2019"
-doi: ""
+doi: "10.1109/APSIPAASC47483.2019.9023076"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-18T00:00:00Z"
+publishDate: "2020-03-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
