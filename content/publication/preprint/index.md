@@ -15,7 +15,7 @@ publishDate: "2019"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498."
 publication_short: ""
 
 abstract: Lorem The multiple factors of intelligence measurement are critical in the intelligent science. The intelligence measurement is typically built at a model based on the multiple factors. The different digital self is generally difficult to measure due to the uncertainty among multiple factors. Effective methods for the universal intelligence measurement are therefore important to different digital-selves. In this paper, we propose a universal intelligence measurement method based on metaanalysis. Firstly, we get study data through keywords in database and delete the low-quality data. Secondly, after encoding the data, we compute the effect value by Odds ratio, Relatve risk and Risk difference. Then we test the homogeneity by Q-test and analysis the bias by funnel plots. Thirdly, we select the Fixed Effect and Random Effect as statistical model. Finally, simulation results confirm that our method can effectively solve the multiple factors of different digital self. Especially for the intelligence of human, machine, company, government and institution.
