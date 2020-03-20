@@ -2,7 +2,6 @@
 title: "An example conference paper"
 authors:
 - admin
-- Wen Ji
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
