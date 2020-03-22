@@ -63,7 +63,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "yangzheming19b@ict.ac.cn".
+  link: mailto:yangzheming19b@ict.ac.cn
+# link: '#contact'  # For a direct email link, use "yangzheming19b@ict.ac.cn".
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/jian-qiang-65-66
@@ -91,4 +92,6 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, Network Economy, and Video Transmission.My motto: Any experience of suffering is either death or wealth.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, Network Economy, and Video Transmission.
+
+My motto: Any experience of suffering is either death or wealth.
