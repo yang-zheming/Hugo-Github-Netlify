@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
 event: Academic Theme Conference
 event_url: https://example.org
 
