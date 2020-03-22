@@ -20,11 +20,15 @@
   url = "#publications"
   weight = 20
   
+[[main]]
+  name = "Recent Activities"
+  url = "#talks"
+  weight = 30
   
 [[main]]
   name = "Awards"
   url = "#posts"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  name = "Contact"

@@ -60,10 +60,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 
-#social:
+social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "yangzheming19b@ict.ac.cn".
+  link: mailto:yangzheming19b@ict.ac.cn
+# link: '#contact'  # For a direct email link, use "yangzheming19b@ict.ac.cn".
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/jian-qiang-65-66
