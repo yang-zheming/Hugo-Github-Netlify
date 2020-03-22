@@ -29,6 +29,7 @@ interests:
 - Reinforcement Learning
 - Intelligent Multimedia
 - Network Economy
+- Video Transmission
 
 education:
   courses:
@@ -60,18 +61,18 @@ education:
 
 
 #social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "yangzheming19b@ict.ac.cn".
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/jian-qiang-65-66
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yzm1101121315
   
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -90,6 +91,6 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, he is pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences.
-His current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia,
-and Network Economy.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, Network Economy, and Video Transmission.
+
+My motto: Any experience of suffering is either death or wealth.
