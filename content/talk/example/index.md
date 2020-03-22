@@ -3,7 +3,7 @@ title: 2019 Asia-Pacific Signal and Information Processing Association Annual Su
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Source Themes HQ
+location: Lanzhou China  
 address:
   street: 
   city: Lanzhou
@@ -16,7 +16,7 @@ abstract: "APSIPA ASC 2019 is the 11th annual conference organized by Asia-Pacif
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-18T00:00:00Z"
+date: "2019-11-18T09:00:00Z"
 date_end: "2019-11-21T00:00:00Z"
 all_day: false
 
@@ -37,7 +37,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: http://www.apsipa2019.org/
 url_code: ""
 url_pdf: ""
 url_slides: ""
