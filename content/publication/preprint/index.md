@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Follow
   url: http://www.apsipa2019.org/
 url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
 url_code: ''
