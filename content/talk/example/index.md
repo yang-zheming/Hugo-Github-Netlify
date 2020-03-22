@@ -34,8 +34,8 @@ featured: false
 #  focal_point: Right
 
 links:
-- icon: linkedin
-  icon_pack: fab
+# - icon: linkedin
+#  icon_pack: fab
   name: Follow
   url: http://www.apsipa2019.org/
 url_code: ""
