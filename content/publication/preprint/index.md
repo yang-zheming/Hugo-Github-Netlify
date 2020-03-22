@@ -64,8 +64,8 @@ projects:
 slides: example
 ---
 
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-#Supplementary notes can be added here, including [code and math]
+# Supplementary notes can be added here, including [code and math]
