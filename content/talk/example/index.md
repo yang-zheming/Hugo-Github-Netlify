@@ -1,27 +1,27 @@
 ---
-title: 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+title: Example Talk
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: "Lanzhou, Gansu, China"
+location: Source Themes HQ
 address:
-  street: 
-  city: "Lanzhou"
+  street: 450 Serra Mall
+  city: Stanford
   region: CA
   postcode: '94305'
-  country: "China"
+  country: United States
 
-summary: 
-abstract: "APSIPA ASC 2019 (www.apsipa2019.org) is the 11th annual conference organized by Asia-Pacific Signal and Information Processing Association (APSIPA), which will be held on November 18-21, 2019, in Lanzhou, China. Founded in 2009, APSIPA aims to promote research and education in signal processing, information technology, and communications. The annual conferences have been held previously in Sapporo, Japan (2009), Singapore (2010), Xi’an, China (2011), Los Angeles, USA (2012), Kaohsiung, China (2013), Siem Reap, Cambodia (2014), Hong Kong, China (2015), Jeju, Korea (2016), and Kuala Lumpur, Malaysia (2017) and Hawaii, USA (2018). APSIPA is interested in all aspects of signal and information processing theories, algorithms, securities, implementations, and applications. All accepted papers will be indexed by EI compendex and archived by IEEE Xplore."
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-18T13:00:00Z"
-date_end: "2019-11-21T15:00:00Z"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-03-05T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -29,15 +29,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: http://www.apsipa2019.org/
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
