@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Follow
   url: http://www.apsipa2019.org/
 url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
 url_code: ''
@@ -61,11 +61,11 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+#slides: example
+#---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Slides* button above to demo Academic's Markdown slides feature.
+#{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-#latex/).
