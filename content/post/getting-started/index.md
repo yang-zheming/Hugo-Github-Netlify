@@ -1,6 +1,6 @@
 ---
 title: '2017-2018 National Scholarship'
-subtitle: 'Obtained in China'
+subtitle: 'Obtained in NCST'
 summary: Obtained in China.
 authors:
 - admin
