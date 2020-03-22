@@ -6,10 +6,10 @@ authors:
 - admin
 tags:
 - Academic
-categories:
-- Demo
-date: "2017-10-20T00:00:00Z"
-lastmod: "2018-10-17T00:00:00Z"
+# categories:
+# - Demo
+# date: "2017-10-20T00:00:00Z"
+# lastmod: "2018-10-17T00:00:00Z"
 featured: false
 draft: false
 
