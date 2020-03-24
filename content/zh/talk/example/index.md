@@ -1,15 +1,15 @@
 ---
-title: 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+title: 亚太信号与信息处理协会2019年度峰会
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Lanzhou China  
+location: 中国 兰州
 address:
   street: 
-  city: Lanzhou
+  city: 兰州
   region: 
   postcode: 
-  country: China
+  country: 中国
 
 summary: APSIPA ASC 2019
 abstract: "APSIPA ASC 2019 is the 11th annual conference organized by Asia-Pacific Signal and Information Processing Association (APSIPA), which will be held on November 18-21, 2019, in Lanzhou, China. Founded in 2009, APSIPA aims to promote research and education in signal processing, information technology, and communications. The annual conferences have been held previously in Sapporo, Japan (2009), Singapore (2010), Xi’an, China (2011), Los Angeles, USA (2012), Kaohsiung, China (2013), Siem Reap, Cambodia (2014), Hong Kong, China (2015), Jeju, Korea (2016), and Kuala Lumpur, Malaysia (2017) and Hawaii, USA (2018). APSIPA is interested in all aspects of signal and information processing theories, algorithms, securities, implementations, and applications. All accepted papers will be indexed by EI compendex and archived by IEEE Xplore."

@@ -1,15 +1,15 @@
 ---
-title: 2019 special conference of Network Multimedia of Chinese Institute of Electronics
+title: 中国电子学会“网络多媒体”专委会2019年度峰会
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Fuzhou China  
+location: 中国 福州
 address:
   street: 
-  city: Fuzhou
+  city: 福州
   region: 
   postcode: 
-  country: China
+  country: 中国
 
 summary: CIE NMC 2019 
 abstract: ""

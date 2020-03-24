@@ -1,15 +1,15 @@
 ---
-title: The 2019 International Conference on Frontier Sciences
+title: 中国科学院前沿科学国际战略研讨会
 event: Academic Theme Conference
 event_url: https://example.org
 
-location: Beijing China  
+location: 中国 北京  
 address:
   street: 
-  city: Beijing
+  city: 北京
   region: 
   postcode: 
-  country: China
+  country: 中国
 
 summary: ICFS 2019 
 abstract: ""
