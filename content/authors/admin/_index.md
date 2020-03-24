@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Universal Intelligence Measure, Reinforcement Learning and Intelligent Multimedia.
+bio: My research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economy, and Video Transmission.
 
 interests:
 - Universal Intelligence Measure
