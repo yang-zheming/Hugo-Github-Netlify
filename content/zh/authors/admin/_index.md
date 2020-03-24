@@ -1,7 +1,7 @@
 
 ---
 # Display name
-name: Zheming Yang
+name: 杨哲铭
 
 # Username (this should match the folder name)
 authors:
@@ -11,36 +11,36 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: 博士生
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Computing Technology, Chinese Academy of Sciences
+- name: 中国科学院计算技术研究所
   url: "http://www.ict.ac.cn/"
 - name: yangzheming19b@ict.ac.cn
 - name: yang.zheming@foxmail.com
-- name: NO.6 Kexueyuan South Road, Haidian District Beijing, 100000, China
+- name: 北京市海淀区科学院南路6号
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economy, and Video Transmission.
+bio: 我的研究兴趣包括通用智能度量、强化学习、博弈论、智能多媒体、网络经济和视频传输等
 
 interests:
-- Universal Intelligence Measure
-- Reinforcement Learning
-- Game Theory
-- Intelligent Multimedia
-- Network Economy
-- Video Transmission
+- 通用智能度量
+- 强化学习
+- 博弈论
+- 智能多媒体
+- 网络经济
+- 视频传输
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: Institute of Computing Technology, Chinese Academy of Sciences
-    year: 2019-Now
+  - course: 计算机应用技术博士
+    institution: 中国科学院计算技术研究所
+    year: 2019至今
     
-  - course: B.Sc in Electronic Engineering
-    institution: North China University of Science and Technology
+  - course: 电子信息工程本科
+    institution: 华北理工大学
     year: 2015-2019
     
 # contacts:
@@ -94,8 +94,8 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economy, and Video Transmission.
+我于2019年在中国获得华北理工大学电子信息工程学士学位。目前，我正在中国科学院计算技术研究所攻读计算机应用技术博士学位。我目前的研究方向包括通用智能度量、强化学习、博弈论、智能多媒体、网络经济和视频传输等
 
-My hobbies mainly include playing ping-pong, running, reading, watching movies, and traveling.
+我平时的兴趣爱好主要包括打乒乓球、跑步、看书、看电影和旅游
 
-My motto is "Any experience of suffering is either death or wealth".
+我的座右铭是“任何苦难的经历，只要不是死亡，就是财富”
