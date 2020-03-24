@@ -1,7 +1,7 @@
 ---
-title: '2016-2017 Excellent volunteers of World Horticultural Exposition'
-subtitle: 'Obtained in China'
-summary: Obtained in China.
+title: '2019-2020 Excellent Communist Party Member'
+subtitle: 'Obtained in UCAS'
+summary: Obtained in UCAS.
 authors:
 - admin
 tags:

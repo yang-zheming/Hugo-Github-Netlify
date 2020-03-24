@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Follow
   url: http://www.apsipa2019.org/
 url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
 url_code: ''
@@ -63,9 +63,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

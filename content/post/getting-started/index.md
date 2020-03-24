@@ -1,7 +1,7 @@
 ---
-title: '2016-2017 Excellent volunteers of World Horticultural Exposition'
-subtitle: 'Obtained in China'
-summary: Obtained in China.
+title: '2017-2018 National Scholarship'
+subtitle: 'Obtained in NCST'
+summary: Obtained in NCST.
 authors:
 - admin
 tags:
