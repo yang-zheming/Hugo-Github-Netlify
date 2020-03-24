@@ -99,5 +99,3 @@ I received the B.Sc. degree in electronic engineering from North China Universit
 My hobbies mainly include playing ping-pong, running, reading, watching movies, and traveling.
 
 My motto is "Any experience of suffering is either death or wealth".
-
----
