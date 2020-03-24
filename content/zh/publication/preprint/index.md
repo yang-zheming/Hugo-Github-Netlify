@@ -1,7 +1,7 @@
 ---
 title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
 authors:
-- admin
+- Zheming Yang
 - Wen Ji
 date: "2019"
 doi: "10.1109/APSIPAASC47483.2019.9023076"
