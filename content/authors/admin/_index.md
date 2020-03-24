@@ -27,6 +27,7 @@ bio: My research interests include Universal Intelligence Measure, Reinforcement
 interests:
 - Universal Intelligence Measure
 - Reinforcement Learning
+- Game Theory
 - Intelligent Multimedia
 - Network Economy
 - Video Transmission
@@ -92,6 +93,8 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Intelligent Multimedia, Network Economy, and Video Transmission.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economy, and Video Transmission.
 
-My motto: Any experience of suffering is either death or wealth.
+My hobbies mainly include playing ping-pong, running, reading, watching movies, and traveling.
+
+My motto is "Any experience of suffering is either death or wealth".
