@@ -1,7 +1,7 @@
 ---
-title: '2019-2020 Excellent Communist Party Member'
-subtitle: 'Obtained in UCAS'
-summary: Obtained in UCAS.
+title: '2019-2020  优秀共产党员'
+subtitle: '中国科学院大学'
+summary: 中国科学院大学
 authors:
 - admin
 tags:

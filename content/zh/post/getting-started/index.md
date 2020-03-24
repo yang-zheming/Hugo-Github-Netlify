@@ -1,7 +1,7 @@
 ---
-title: '2017-2018 National Scholarship'
-subtitle: 'Obtained in NCST'
-summary: Obtained in NCST.
+title: '2017-2018  国家奖学金'
+subtitle: '华北理工大学'
+summary: 华北理工大学
 authors:
 - admin
 tags:
