@@ -44,7 +44,7 @@
   translation: 引用
 
 - id: btn_slides
-  translation: 演示文稿
+  translation: PPT
 
 - id: btn_video
   translation: 视频
@@ -73,7 +73,7 @@
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究领域
 
 - id: education
   translation: 教育经历
