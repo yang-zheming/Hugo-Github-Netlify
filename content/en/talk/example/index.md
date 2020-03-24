@@ -6,7 +6,7 @@ event_url: https://example.org
 location: Lanzhou China  
 address:
   street: 
-  city: Lanzhou
+  city: 
   region: 
   postcode: 
   country: China

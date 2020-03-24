@@ -70,5 +70,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[filtering publications]({{< ref "/publication/_index.md" >}}).
+[筛选出版物]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

@@ -6,7 +6,7 @@ event_url: https://example.org
 location: 中国 北京  
 address:
   street: 
-  city: 北京
+  city: 
   region: 
   postcode: 
   country: 中国

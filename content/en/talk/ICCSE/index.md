@@ -6,7 +6,7 @@ event_url: https://example.org
 location: Jinan China  
 address:
   street: 
-  city: Jinan
+  city: 
   region: 
   postcode: 
   country: China
