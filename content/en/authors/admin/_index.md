@@ -26,11 +26,12 @@ organizations:
 bio: My research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economics, and Video Transmission.
 
 interests:
-- Universal Intelligence Measure
-- Reinforcement Learning
+- Swarm Learning
+- Edge Intelligence
 - Intelligent Multimedia
-- Network Economics
 - Video Transmission
+- Network Economics
+
 
 education:
   courses:
