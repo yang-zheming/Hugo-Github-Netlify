@@ -28,7 +28,6 @@ bio: My research interests include Universal Intelligence Measure, Reinforcement
 interests:
 - Universal Intelligence Measure
 - Reinforcement Learning
-- Game Theory
 - Intelligent Multimedia
 - Network Economics
 - Video Transmission
