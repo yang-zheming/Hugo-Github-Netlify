@@ -31,6 +31,7 @@ interests:
 - Video Transmission
 - Intelligent Multimedia
 - Network Economics
+- Network Economics
 
 education:
   courses:
