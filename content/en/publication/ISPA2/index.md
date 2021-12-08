@@ -1,13 +1,14 @@
 ---
-title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+title: "Understanding Crowd Intelligence in Large-scale Systems: A Hierarchical Binary Particle Swarm Optimization Approach"
 authors:
+- Linqing Zhai
 - admin
 - Wen Ji
-date: "2019"
-doi: "10.1109/APSIPAASC47483.2019.9023076"
+date: "2020"
+doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00117"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-05T00:00:00Z"
+publishDate: "2021-06-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +17,13 @@ publishDate: "2020-03-05T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498."
+publication: "Published In 2020 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 728-735."
 publication_short: ""
 
-abstract: The multiple factors of intelligence measurement are critical in the intelligent science. The intelligence measurement is typically built at a model based on the multiple factors. The different digital self is generally difficult to measure due to the uncertainty among multiple factors. Effective methods for the universal intelligence measurement are therefore important to different digital-selves. In this paper, we propose a universal intelligence measurement method based on metaanalysis. Firstly, we get study data through keywords in database and delete the low-quality data. Secondly, after encoding the data, we compute the effect value by Odds ratio, Relatve risk and Risk difference. Then we test the homogeneity by Q-test and analysis the bias by funnel plots. Thirdly, we select the Fixed Effect and Random Effect as statistical model. Finally, simulation results confirm that our method can effectively solve the multiple factors of different digital self. Especially for the intelligence of human, machine, company, government and institution.
+abstract: As an emerging key technology of crowd intelligence, multi-access edge computing, mobile crowdsensing, and Internet of everything, large-scale optimization can offer suboptimal solutions to the binary optimization problems with NP-complete in these fields. Binary Particle Swarm Optimization (BPSO) is a stable and promising approach with controllable computational complexity. However, it is still challenging to solve these problems by using BPSO. In this paper, inspired by the formulation of crowd intelligence, we propose a hierarchical BPSO algorithm (H-BPSO) based on intelligence model for large-scale binary optimization problems. In H-BPSO, we first formulate the particles in the swarm as entities with intelligence, and divide them into different levels according to their intelligence. Then we design a new strategy for the selection of guiding particles when updating particles. Further, in order to make H-BPSO have better adaptability, and can balance between exploration and exploitation during the evolution, we introduce a dynamic level-number selection strategy. Finally, we investigate the performance of our proposed H-BPSO on a well-known benchmark set of high-dimensional Knapsack instances through comparing H-BPSO with several state-of-the-art BPSO algorithms. The experimental results demonstrate that H-BPSO has better performance when solving high-dimensional Knapsack problems in terms of convergence speed and global search capability.
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+summary: Published In 2020 IEEE International Symposium on Parallel and Distributed Processing with Applications
 
 tags:
 - Source Themes
@@ -30,8 +31,8 @@ featured: false
 
 links:
 - name: Follow
-  url: http://www.apsipa2019.org/
-url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
+  url: https://ieeexplore.ieee.org/abstract/document/9443915
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9443915
 url_code: ''
 url_dataset: ''
 url_poster: ''
