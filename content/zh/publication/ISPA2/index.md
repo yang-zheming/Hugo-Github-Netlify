@@ -2,7 +2,7 @@
 title: "Understanding Crowd Intelligence in Large-scale Systems: A Hierarchical Binary Particle Swarm Optimization Approach"
 authors:
 - Linqing Zhai
-- admin
+- Zheming Yang
 - Wen Ji
 date: "2020"
 doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00117"
