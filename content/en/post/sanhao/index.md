@@ -1,5 +1,5 @@
 ---
-title: '2019-2020 Excellent Communist Party Member'
+title: '2019-2020 Three Good Student'
 subtitle: 'Obtained in UCAS'
 summary: Obtained in UCAS.
 authors:
