@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economics, and Video Transmission.
+bio: My research interests include Swarm Learning, Edge Intelligence, Intelligent Multimedia, Video Transmission, and Network Economics.
 
 interests:
 - Swarm Learning
@@ -94,8 +94,8 @@ user_groups:
 - Visitors
 ---
 
-I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Universal Intelligence Measure, Reinforcement Learning, Game Theory, Intelligent Multimedia, Network Economy, and Video Transmission.
+I received the B.Sc. degree in electronic engineering from North China University of Science and Technology, China, in 2019. Currently, I am pursuing a Ph.D. degree at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests include Swarm Learning, Edge Intelligence, Intelligent Multimedia, Video Transmission, and Network Economics.
 
-My hobbies mainly include playing ping-pong, running, reading, watching movies, and traveling.
+My hobbies mainly include playing ping-pong, badminton，running, reading, watching movies, and traveling.
 
 My motto is "Any experience of suffering is either death or wealth".
