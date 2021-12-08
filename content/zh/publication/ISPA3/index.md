@@ -2,7 +2,7 @@
 title: "Crowd Intelligence Empowered Video Transmission in Ultra-low-bandwidth Constrained Circumstances"
 authors:
 - Hexiang Qiao
-- admin
+- Zheming Yang
 - Wen Ji
 date: "2020"
 doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00116"
