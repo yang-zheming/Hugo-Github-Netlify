@@ -1,7 +1,7 @@
 ---
 title: "A Quality- Time Model of Heterogeneous Agents Measure for Crowd Intelligence"
 authors:
-- admin
+- Zheming Yang
 - Wen Ji
 date: "2020"
 doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00187"
