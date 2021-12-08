@@ -1,28 +1,28 @@
 ---
-title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+title: "Meta measurement of intelligence with crowd network"
 authors:
 - admin
 - Wen Ji
-date: "2019"
-doi: "10.1109/APSIPAASC47483.2019.9023076"
+date: "2020"
+doi: "https://doi.org/10.1108/IJCS-03-2020-0008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-05T00:00:00Z"
+publishDate: "2020-07-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498."
+publication: "Published In International Journal of Crowd Science, Vol. 4 No. 3, pp. 295-307."
 publication_short: ""
 
-abstract: The multiple factors of intelligence measurement are critical in the intelligent science. The intelligence measurement is typically built at a model based on the multiple factors. The different digital self is generally difficult to measure due to the uncertainty among multiple factors. Effective methods for the universal intelligence measurement are therefore important to different digital-selves. In this paper, we propose a universal intelligence measurement method based on metaanalysis. Firstly, we get study data through keywords in database and delete the low-quality data. Secondly, after encoding the data, we compute the effect value by Odds ratio, Relatve risk and Risk difference. Then we test the homogeneity by Q-test and analysis the bias by funnel plots. Thirdly, we select the Fixed Effect and Random Effect as statistical model. Finally, simulation results confirm that our method can effectively solve the multiple factors of different digital self. Especially for the intelligence of human, machine, company, government and institution.
+abstract: The multiple factors of intelligence measurement are critical in intelligent science. The intelligence measurement is typically built as a model based on multiple factors. The different agent is generally difficult to measure because of the uncertainty between multiple factors. The purpose of this paper is to solve the problem of uncertainty between multiple factors and propose an effective method for universal intelligence measurement for the different agents. In this paper, the authors propose a universal intelligence measurement method based on meta-analysis for crowd network. First, the authors get study data through keywords in the database and delete the low-quality data. Second, they compute the effect value by odds ratio, relative risk and risk difference. Then, they test the homogeneity by Q-test and analyze the bias by funnel plots. Third, they select the fixed effect and random effect as a statistical model. Finally, through the meta-analysis of time, complexity and reward, the weight of each factor in the intelligence measurement is obtained and then the meta measurement model is constructed.
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+summary: Published In International Journal of Crowd Science
 
 tags:
 - Source Themes
@@ -30,8 +30,8 @@ featured: false
 
 links:
 - name: Follow
-  url: http://www.apsipa2019.org/
-url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
+  url: https://www.emerald.com/insight/content/doi/10.1108/IJCS-03-2020-0008/full/html
+url_pdf: chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fwww.emerald.com%2Finsight%2Fcontent%2Fdoi%2F10.1108%2FIJCS-03-2020-0008%2Ffull%2Fpdf%3Ftitle%3Dmeta-measurement-of-intelligence-with-crowd-network
 url_code: ''
 url_dataset: ''
 url_poster: ''
