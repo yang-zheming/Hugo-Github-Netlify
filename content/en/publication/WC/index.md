@@ -1,10 +1,10 @@
 ---
-title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+title: "Crowd V-IoE: Visual Internet of Everything Architecture in AI-Driven Fog Computing"
 authors:
 - admin
 - Wen Ji
-date: "2019"
-doi: "10.1109/APSIPAASC47483.2019.9023076"
+date: "2020"
+doi: "10.1109/MWC.001.1900349"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-05T00:00:00Z"
@@ -13,16 +13,16 @@ publishDate: "2020-03-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498."
+publication: "Published In IEEE Wireless Communications, vol. 27, no. 2, pp. 51-57."
 publication_short: ""
 
-abstract: The multiple factors of intelligence measurement are critical in the intelligent science. The intelligence measurement is typically built at a model based on the multiple factors. The different digital self is generally difficult to measure due to the uncertainty among multiple factors. Effective methods for the universal intelligence measurement are therefore important to different digital-selves. In this paper, we propose a universal intelligence measurement method based on metaanalysis. Firstly, we get study data through keywords in database and delete the low-quality data. Secondly, after encoding the data, we compute the effect value by Odds ratio, Relatve risk and Risk difference. Then we test the homogeneity by Q-test and analysis the bias by funnel plots. Thirdly, we select the Fixed Effect and Random Effect as statistical model. Finally, simulation results confirm that our method can effectively solve the multiple factors of different digital self. Especially for the intelligence of human, machine, company, government and institution.
+abstract: Fog computing has emerged as a unifying platform to provide computing, communication, and storage for a variety of mobile applications. That helps achieve high bandwidth, high intelligence, low latency, and low energy consumption in handling massive networking devices and emerging rich multimedia services in 5G networks. Current prominence and future promises are changing from the Internet of Things (IoT) to the Internet of Everything (IoE), which is a union of people, process, data, and things. However, the development of fog radio access networks (F-RANs) is challenged by the diversity of IoE, ultra-high-definition videos on demand from users, and low-latency requirement of heterogeneous IoT devices. In this article, we present an architecture of visual IoE (V-IoE) in F-RANs. We systemically analyze the key challenges of V-IoE from the perspective of F-RANs, and propose a crowd V-IoE architecture. Through experimental results, we demonstrate that our proposed architecture exhibits better performance with lower bandwidth requirement, lower energy consumption, and lower latency in F-RANs. Finally, we conclude with a discussion of potential directions.
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+summary: Published In IEEE Wireless Communications
 
 tags:
 - Source Themes
@@ -30,8 +30,8 @@ featured: false
 
 links:
 - name: Follow
-  url: http://www.apsipa2019.org/
-url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
+  url: https://ieeexplore.ieee.org/abstract/document/9085263
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9085263
 url_code: ''
 url_dataset: ''
 url_poster: ''
