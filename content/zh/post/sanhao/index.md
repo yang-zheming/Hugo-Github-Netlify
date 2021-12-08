@@ -1,5 +1,5 @@
 ---
-title: '2019-2020  优秀共产党员'
+title: '2019-2020  三好学生'
 subtitle: '中国科学院大学'
 summary: 中国科学院大学
 authors:
