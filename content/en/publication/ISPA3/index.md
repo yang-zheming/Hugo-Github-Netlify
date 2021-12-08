@@ -1,13 +1,14 @@
 ---
-title: "A Universal Intelligence Measurement Method Based on Meta-analysis"
+title: "Crowd Intelligence Empowered Video Transmission in Ultra-low-bandwidth Constrained Circumstances"
 authors:
+- Hexiang Qiao
 - admin
 - Wen Ji
-date: "2019"
-doi: "10.1109/APSIPAASC47483.2019.9023076"
+date: "2020"
+doi: "10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00116"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-05T00:00:00Z"
+publishDate: "2020-06-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +17,13 @@ publishDate: "2020-03-05T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC). IEEE, 2019: 493-498."
+publication: "Published In 2020 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA). IEEE, 2020, pp. 721-727."
 publication_short: ""
 
-abstract: The multiple factors of intelligence measurement are critical in the intelligent science. The intelligence measurement is typically built at a model based on the multiple factors. The different digital self is generally difficult to measure due to the uncertainty among multiple factors. Effective methods for the universal intelligence measurement are therefore important to different digital-selves. In this paper, we propose a universal intelligence measurement method based on metaanalysis. Firstly, we get study data through keywords in database and delete the low-quality data. Secondly, after encoding the data, we compute the effect value by Odds ratio, Relatve risk and Risk difference. Then we test the homogeneity by Q-test and analysis the bias by funnel plots. Thirdly, we select the Fixed Effect and Random Effect as statistical model. Finally, simulation results confirm that our method can effectively solve the multiple factors of different digital self. Especially for the intelligence of human, machine, company, government and institution.
+abstract: The performance of video transmission depends on their ability to efficiently improve in jitter, latency and bit rate. However, emerging video transmission needs create new difficulties owing to the devices in ultra-low-bandwidth constrained circumstances, such as no man's land, underwater acoustic communication, etc. And the existing adaptive bit rate algorithms can not apply to the extreme circumstances well. In this work, a adaptive problem of video transmission is studied in which video frames are transmitted through extremely constrained network. The objective is to maximize the fluency and network efficiency. Furthermore, a crowd intelligence empowered dynamic adaptive video transmission method in extreme circumstances is presented. First, several typical ultra-low-bandwidth video transmission scenes are selected for network data collection. Second, working status data of modules internal devices are processed and evaluated. The evaluation method is empowered by crowd intelligence. Third, the reward function of Q-Learning is reconstructed to be dynamically updated according to device evaluation results and network status. Then, it can be corrected by exception handling strategies to adapt to the scenes better. Experiments on different scenes demonstrated the proposed method was effective, thereby verifying feasibility of the proposed method.
 
 # Summary. An optional shortened abstract.
-summary: Published In 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference
+summary: Published In 2020 IEEE International Symposium on Parallel and Distributed Processing with Applications
 
 tags:
 - Source Themes
@@ -30,8 +31,8 @@ featured: false
 
 links:
 - name: Follow
-  url: http://www.apsipa2019.org/
-url_pdf: http://www.apsipa.org/proceedings/2019/pdfs/305.pdf
+  url: https://ieeexplore.ieee.org/abstract/document/9443904
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9443904
 url_code: ''
 url_dataset: ''
 url_poster: ''
