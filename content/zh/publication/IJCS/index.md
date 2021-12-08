@@ -1,7 +1,7 @@
 ---
 title: "Meta measurement of intelligence with crowd network"
 authors:
-- admin
+- Zheming Yang
 - Wen Ji
 date: "2020"
 doi: "https://doi.org/10.1108/IJCS-03-2020-0008"
