@@ -1,7 +1,7 @@
 ---
 title: "An Intelligent End–Edge–Cloud Architecture for Visual IoT-Assisted Healthcare Systems"
 authors:
-- admin
+- Zheming Yang
 - Bing Liang
 - Wen Ji
 date: "2021"
